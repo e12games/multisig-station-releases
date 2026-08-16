@@ -1,6 +1,6 @@
 {
-  "version": "20260816-14",
-  "notes": "有余额无市价时提示重试，禁止静默按0走开低档",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-14/station-20260816-14.zip",
-  "sha256": "b3e5d02bb926de8eb59e22a69030331946a7ad0ace2ff6d534b816ef2aec7d7f"
+  "version": "20260816-15",
+  "notes": "广播前复核折合防误开低档；业务错误改409避免请求失败空白",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-15/station-20260816-15.zip",
+  "sha256": "4eb5f29d603161209a3a33a7017f92e0447c46731d0a96d92d70848533cda5eb"
 }
