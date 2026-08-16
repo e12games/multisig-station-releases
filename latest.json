@@ -1,6 +1,6 @@
 {
-  "version": "20260816-2",
-  "notes": "修复 zip 路径；新增 cli-update-hq.sh（宝塔两行升级）",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-2/station-20260816-2.zip",
-  "sha256": "bcf6ca64597023322d0fe9288b9660e9e959fa7e21fe345a55fd313d47ca554c"
+  "version": "20260816-3",
+  "notes": "修复更新后 nginx 403：dist 原地替换+回滚，自动修正属主与权限",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-3/station-20260816-3.zip",
+  "sha256": "9171a2d3e94f93dc609b2794eb3a66f2fa526b5af93749e9bf063f7b32992814"
 }
