@@ -1,6 +1,6 @@
 {
-  "version": "20260816-12",
-  "notes": "登录图形验证码与失败限流",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-12/station-20260816-12.zip",
-  "sha256": "56867eff38e5687c0ed35696610ffe09adfb89cfa047111696c5b2e12bfcf84f"
+  "version": "20260816-13",
+  "notes": "折合计入TRX市价+已登记TRC20；默认阈值不变",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-13/station-20260816-13.zip",
+  "sha256": "a68f7a2d32198fa38561b2d5461a68eeb34714ae79f123dd6a99f4a129c52fdc"
 }
