@@ -1,6 +1,6 @@
 {
-  "version": "20260816-13",
-  "notes": "折合计入TRX市价+已登记TRC20；默认阈值不变",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-13/station-20260816-13.zip",
-  "sha256": "a68f7a2d32198fa38561b2d5461a68eeb34714ae79f123dd6a99f4a129c52fdc"
+  "version": "20260816-14",
+  "notes": "有余额无市价时提示重试，禁止静默按0走开低档",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-14/station-20260816-14.zip",
+  "sha256": "b3e5d02bb926de8eb59e22a69030331946a7ad0ace2ff6d534b816ef2aec7d7f"
 }
