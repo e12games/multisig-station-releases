@@ -1,6 +1,6 @@
 {
-  "version": "20260816-8",
-  "notes": "高档改为3/4（3址）；新增超管加密私钥管理器",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-8/station-20260816-8.zip",
-  "sha256": "a54b173d5aecdfaa1e707ed0c954f9d2d77e1f724c5938d3968fb0dacfbc55c8"
+  "version": "20260816-9",
+  "notes": "私钥管理器：可查看仓内地址关联的本站开通钱包",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-9/station-20260816-9.zip",
+  "sha256": "9a2d311a902b6b9241d77fc943edc6b323733b451ad12c1f2b9b9910c03c5403"
 }
