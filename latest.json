@@ -1,6 +1,6 @@
 {
-  "version": "20260816-5",
-  "notes": "默认网络改为 TRON 主网；页面说明同步",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-5/station-20260816-5.zip",
-  "sha256": "ace6c080db7d78f98e98dbba5a8adc57d3bc2a183d57a0fa6abc61e32af960f8"
+  "version": "20260816-6",
+  "notes": "修复宝塔 nginx SPA 刷新 404 与裸 /api/ 配置；增加自动备份回滚",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-6/station-20260816-6.zip",
+  "sha256": "c7bc3b01cab92bb0b2b5f8cb386ecf181a182d63b009490303e155682f37c8ba"
 }
