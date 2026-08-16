@@ -1,5 +1,6 @@
 {
   "version": "20260816-2",
   "notes": "修复 zip 路径；新增 cli-update-hq.sh（宝塔两行升级）",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-2/station-20260816-2.zip"
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-2/station-20260816-2.zip",
+  "sha256": "bcf6ca64597023322d0fe9288b9660e9e959fa7e21fe345a55fd313d47ca554c"
 }
