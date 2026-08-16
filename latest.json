@@ -1,6 +1,6 @@
 {
-  "version": "20260816-15",
-  "notes": "广播前复核折合防误开低档；业务错误改409避免请求失败空白",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-15/station-20260816-15.zip",
-  "sha256": "4eb5f29d603161209a3a33a7017f92e0447c46731d0a96d92d70848533cda5eb"
+  "version": "20260816-16",
+  "notes": "开通页错误可读化；未签交易有效期延长到 10 分钟；广播失败返回中文原因",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-16/station-20260816-16.zip",
+  "sha256": "998b01f86891e03b1bec0a68520cf556dde5b5780b0fa66bea521efc3249e87b"
 }
