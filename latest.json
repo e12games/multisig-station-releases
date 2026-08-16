@@ -1,6 +1,6 @@
 {
-  "version": "20260816-11",
-  "notes": "总部后台使用说明页（对齐分公司）；含私钥管理器一/二期；各页入口与提示",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-11/station-20260816-11.zip",
-  "sha256": "7d87e911c84c0a2a29fe70be67deddbf21e8657d51e10e8d410acebf754848f7"
+  "version": "20260816-12",
+  "notes": "登录图形验证码与失败限流",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-12/station-20260816-12.zip",
+  "sha256": "56867eff38e5687c0ed35696610ffe09adfb89cfa047111696c5b2e12bfcf84f"
 }
