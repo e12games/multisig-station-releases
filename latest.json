@@ -1,6 +1,6 @@
 {
-  "version": "20260816-4",
-  "notes": "登录用户可修改自身密码（导航「修改密码」）",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-4/station-20260816-4.zip",
-  "sha256": "b56347a7697a6a31e1f4199fc886c924fd1abd9bbda8e533b1c2d7a4f9ad14b2"
+  "version": "20260816-5",
+  "notes": "默认网络改为 TRON 主网；页面说明同步",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-5/station-20260816-5.zip",
+  "sha256": "ace6c080db7d78f98e98dbba5a8adc57d3bc2a183d57a0fa6abc61e32af960f8"
 }
