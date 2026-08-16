@@ -1,6 +1,6 @@
 {
-  "version": "20260816-9",
-  "notes": "私钥管理器：可查看仓内地址关联的本站开通钱包",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-9/station-20260816-9.zip",
-  "sha256": "9a2d311a902b6b9241d77fc943edc6b323733b451ad12c1f2b9b9910c03c5403"
+  "version": "20260816-10",
+  "notes": "私钥管理器二期：关联开通地址显示 TRX/TRC20 折合与是否超阈值",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-10/station-20260816-10.zip",
+  "sha256": "ffe13c39ef974cac008f1859c673f8ca0c3f1e4acbcfdc702127a77303e8b3b4"
 }
