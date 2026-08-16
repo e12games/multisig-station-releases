@@ -1,6 +1,6 @@
 {
-  "version": "20260816-10",
-  "notes": "私钥管理器二期：关联开通地址显示 TRX/TRC20 折合与是否超阈值",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-10/station-20260816-10.zip",
-  "sha256": "ffe13c39ef974cac008f1859c673f8ca0c3f1e4acbcfdc702127a77303e8b3b4"
+  "version": "20260816-11",
+  "notes": "总部后台使用说明页（对齐分公司）；含私钥管理器一/二期；各页入口与提示",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-11/station-20260816-11.zip",
+  "sha256": "7d87e911c84c0a2a29fe70be67deddbf21e8657d51e10e8d410acebf754848f7"
 }
