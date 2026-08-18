@@ -1,6 +1,6 @@
 {
-  "version": "20260816-19",
-  "notes": "已开通来源列以域名为主、名称附带",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260816-19/station-20260816-19.zip",
-  "sha256": "6a204c8e6d3599dcdeaeff8cb5eef0595ce0a45a35da20f371a416641ccc6e67"
+  "version": "20260818-7",
+  "notes": "精简版授权与USDT月卡：硬停/体验/手动续费；链上到账自动核销",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260818-7/station-20260818-7.zip",
+  "sha256": "a7ac54b6c87cec02178c06ea95b198f3d69e95429d2acea6050266375aba8d14"
 }
