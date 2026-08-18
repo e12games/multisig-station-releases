@@ -1,6 +1,6 @@
 {
-  "version": "20260818-7",
-  "notes": "精简版授权与USDT月卡：硬停/体验/手动续费；链上到账自动核销",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260818-7/station-20260818-7.zip",
-  "sha256": "a7ac54b6c87cec02178c06ea95b198f3d69e95429d2acea6050266375aba8d14"
+  "version": "20260818-8",
+  "notes": "分公司列表显示域名与长期到期；增加强制禁用（硬停）",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260818-8/station-20260818-8.zip",
+  "sha256": "cc9126b266926415711bfd334dc7dd5b88eb693b3415bed2ad3a16d56d446be2"
 }
