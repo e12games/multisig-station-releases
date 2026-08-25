@@ -1,6 +1,6 @@
 {
-  "version": "20260818-8",
-  "notes": "分公司列表显示域名与长期到期；增加强制禁用（硬停）",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260818-8/station-20260818-8.zip",
-  "sha256": "cc9126b266926415711bfd334dc7dd5b88eb693b3415bed2ad3a16d56d446be2"
+  "version": "20260825-1",
+  "notes": "PC出码API：/api/pc/v1，会话绑定本人2址；高档3址只读总部。现网需配置PC_API_KEY并重启。",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260825-1/station-20260825-1.zip",
+  "sha256": "3a3fabd3278642b829e07fc0543086a24c783763e670ed58e4bd81e80db85d26"
 }
