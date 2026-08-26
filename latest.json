@@ -1,6 +1,6 @@
 {
-  "version": "20260825-1",
-  "notes": "PC出码API：/api/pc/v1，会话绑定本人2址；高档3址只读总部。现网需配置PC_API_KEY并重启。",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260825-1/station-20260825-1.zip",
-  "sha256": "3a3fabd3278642b829e07fc0543086a24c783763e670ed58e4bd81e80db85d26"
+  "version": "20260826-1",
+  "notes": "签名页多钱包选择：TronLink/OKX/TP等+复制链接；会话默认15分钟",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260826-1/station-20260826-1.zip",
+  "sha256": "5ebd95b6933cbdd248844817fff56f3a9f4b80e2266cd2363e7210392afbe379"
 }
