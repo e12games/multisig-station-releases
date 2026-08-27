@@ -1,6 +1,6 @@
 {
-  "version": "20260826-1",
-  "notes": "签名页多钱包选择：TronLink/OKX/TP等+复制链接；会话默认15分钟",
-  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260826-1/station-20260826-1.zip",
-  "sha256": "5ebd95b6933cbdd248844817fff56f3a9f4b80e2266cd2363e7210392afbe379"
+  "version": "20260826-2",
+  "notes": "开通成功页：Tronscan 查验权限与多签地址使用说明",
+  "zipUrl": "https://github.com/e12games/multisig-station-releases/releases/download/20260826-2/station-20260826-2.zip",
+  "sha256": "0212b2c3135e48c16f78c91e15b04183cfb2752da17ec68c88c475d040f3b100"
 }
